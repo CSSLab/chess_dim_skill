@@ -9,3 +9,4 @@ Code for research into skill dimensionality
 5. PredDatasetCreation.ipynb - Code used to gather users and pairs of puzzles that they passed & failed for prediction tasks
 6. Variance of Player Skill.ipynb - Compare player performance in several different groups and performance measures
 7. Forced Prediction Task.ipynb - Code to do some simple prediction tasks on the user pass/fail data 
+8. Puzzle v Player Rating Success Over Time - Code to generate player probability of success over time plots
